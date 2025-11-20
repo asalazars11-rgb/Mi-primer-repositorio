@@ -1,5 +1,5 @@
 Fecha,ID_Venta,Producto,Categoria,Cantidad,Precio_Unitario,Total_Venta,Vendedor,Sucursal
-2025-03-01,3001,Laptop Ultraliviana 14",Electrónica,1,499.00,499.00,Andrea López,Quito
+2025-03-01,3001,Laptop Ultraliviana 14",Electrónica,1,499.00,499.00,Andrea López,Quit
 2025-03-01,3002,Auriculares Bluetooth,Bebidas,2,25.50,51.00,Samuel Ortiz,Guayaquil
 2025-03-02,3003,Té Verde 200g,Alimentos,3,4.80,14.40,Carla Medina,Cuenca
 2025-03-02,3004,Resaltadores (pack 5),Papelería,4,3.20,12.80,Andrea López,Quito
