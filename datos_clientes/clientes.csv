@@ -1,1 +1,10 @@
+ID_Cliente,Nombre,Apellido,Correo,Telefono,Ciudad,Fecha_Registro
+CL001,Diego,Villalba,diego.villalba@email.com,0991122334,Quito,2025-01-10
+CL002,Lorena,Bravo,lorena.bravo@email.com,0978877665,Guayaquil,2025-01-12
+CL003,Martín,Campos,martin.campos@email.com,0985566778,Cuenca,2025-01-14
+CL004,Paola,Carvajal,paola.carvajal@email.com,0964455667,Quito,2025-01-18
+CL005,Esteban,Molina,esteban.molina@email.com,0983344556,Guayaquil,2025-01-20
+CL006,Rosa,Pico,rosa.pico@email.com,0979988774,Cuenca,2025-01-22
+CL007,Julio,Torres,julio.torres@email.com,0998877554,Quito,2025-01-25
+CL008,Elisa,Andrade,elisa.andrade@email.com,0987766554,Guayaquil,2025-01-27
 
