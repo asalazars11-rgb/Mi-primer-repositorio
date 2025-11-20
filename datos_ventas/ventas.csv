@@ -1,1 +1,12 @@
+Fecha,ID_Venta,Producto,Categoria,Cantidad,Precio_Unitario,Total_Venta,Vendedor,Sucursal
+2025-03-01,3001,Laptop Ultraliviana 14",Electrónica,1,499.00,499.00,Andrea López,Quito
+2025-03-01,3002,Auriculares Bluetooth,Bebidas,2,25.50,51.00,Samuel Ortiz,Guayaquil
+2025-03-02,3003,Té Verde 200g,Alimentos,3,4.80,14.40,Carla Medina,Cuenca
+2025-03-02,3004,Resaltadores (pack 5),Papelería,4,3.20,12.80,Andrea López,Quito
+2025-03-03,3005,Agua Mineral 1L,Bebidas,6,1.10,6.60,Samuel Ortiz,Guayaquil
+2025-03-04,3006,Teclado Mecánico,Electrónica,1,72.90,72.90,Carla Medina,Cuenca
+2025-03-05,3007,Galletas Avena 150g,Alimentos,5,1.70,8.50,Andrea López,Quito
+2025-03-06,3008,Lámpara Escritorio LED,Hogar,2,12.90,25.80,Samuel Ortiz,Guayaquil
+2025-03-07,3009,Mochila Escolar,Papelería,1,28.00,28.00,Carla Medina,Cuenca
+2025-03-08,3010,Bebida Isotónica 600ml,Bebidas,4,1.60,6.40,Andrea López,Quito
 
